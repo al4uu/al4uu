@@ -15,26 +15,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=al4uu&show_icons=true&theme=dark&count_private=true" alt="al4uu's GitHub Stats">
 
 <h2>🌐 Social Media</h2>
-<table>
-  <tr>
-    <td><img src="https://github.com/al4uu/al4uu/blob/dced48a8ed53fce1d45ef0295cbbc54ac4a6ab56/1733540546533.png?raw=true" width="250"></td>
-    <td>
-      <a href="https://www.tiktok.com/@al4uu">
-        <img src="https://static.wikia.nocookie.net/tiktok/images/e/eb/TikTok_Logo.png/revision/latest?cb=20210816124125" width="20" style="vertical-align: middle;">
-        <span style="vertical-align: middle; margin-left: 5px;">TikTok</span>
-      </a><br><br>
-      <a href="https://youtube.com/@al4uu">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="20" style="vertical-align: middle;">
-        <span style="vertical-align: middle; margin-left: 5px;">YouTube</span>
-      </a><br><br>
-      <a href="https://t.me/al4uu">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20" style="vertical-align: middle;">
-        <span style="vertical-align: middle; margin-left: 5px;">Telegram</span>
-      </a><br><br>
-      <a href="https://www.instagram.com/al4uu._?igsh=MWJjcWdkang0YTh6cQ==">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" width="20" style="vertical-align: middle;">
-        <span style="vertical-align: middle; margin-left: 5px;">Instagram</span>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://www.instagram.com/al4uu._?igsh=MWJjcWdkang0YTh6cQ==" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://www.tiktok.com/@al4uu_?_t=8rY9ox0DbcG&_r=1" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" alt="TikTok">
+</a>
+<a href="https://youtube.com/@al4uu" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
+</a>
