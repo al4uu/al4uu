@@ -4,12 +4,8 @@
 <img src="https://raw.githubusercontent.com/al4uu/al4uu/e6fb5a58aba9d1cd3babdb7fbf9cf4d3b0d67ab5/IMG_20241207_092707_002.jpg" alt="profile image">
 
 <h2>👤 about meh</h2>
-<table>
-  <tr>
-    <td><img src="https://github.com/al4uu/al4uu/blob/67da73dc4f22ee8a8a6eda0148beab47eed3c945/1733540591249.png?raw=true" alt="profile image"></td>
-    <td><strong>hi, i'm al4uu aka almas</strong><br>i'm focusing on android development, more on making custom modifications and tweaking the system.</td>
-  </tr>
-</table>
+<img align="left" width="100" src="https://github.com/al4uu/al4uu/blob/67da73dc4f22ee8a8a6eda0148beab47eed3c945/1733540591249.png?raw=true">
+<p>Hi, I'm <strong>Al4uu aka Almas</strong>, focusing on Android Development, especially on creating custom modifications and tweaking the system.</p>
 
 <h2>📊 Github Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=al4uu&show_icons=true&theme=dark&count_private=true" alt="al4uu's GitHub Stats">
