@@ -26,6 +26,6 @@
 <p align="center">
   <a href="https://www.instagram.com/al4uu._?igsh=MWJjcWdkang0YTh6cQ=="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
   <a href="https://www.tiktok.com/@al4uu_?_t=8rY9ox0DbcG&_r=1"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white"></a>
-  <a href="https://youtube.com/@al4uu"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
   <a href="https://t.me/al4uu"><img src="https://img.shields.io/badge/Telegram-2CA5E?style=social&logo=telegram"></a>
+  <a href="https://youtube.com/@al4uu"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"></a>
 </p>
